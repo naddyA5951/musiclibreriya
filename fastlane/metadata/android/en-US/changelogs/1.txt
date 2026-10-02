@@ -1,0 +1,1 @@
+Initial open-source release of Naveedify music streaming player. Includes persistent bottom navigation bar, Room playlist persistence, and immersive player.

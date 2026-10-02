@@ -1,0 +1,37 @@
+Categories:
+  - Multimedia
+  - Audio
+License: Apache-2.0
+AuthorName: Naveed Ali
+AuthorEmail: naveedalicodes1@gmail.com
+SourceCode: https://github.com/naveedalicodes1/naveedify
+IssueTracker: https://github.com/naveedalicodes1/naveedify/issues
+
+AutoName: Naveedify
+Summary: Spotify-style music streaming and library player
+Description: |-
+  Naveedify is an open-source Spotify-inspired music streaming application
+  crafted with Jetpack Compose, Material 3, and Room local persistence.
+
+  Features include:
+  * Persistent bottom navigation bar with integrated playback controls
+  * Curated playlists and mixes personalized for Naveed
+  * Dynamic soundwave visualizer and full-screen Now Playing mode
+  * Offline-capable Room database for custom playlists and liked tracks
+  * Zero trackers and 100% Free and Open Source (FOSS)
+
+RepoType: git
+Repo: https://github.com/naveedalicodes1/naveedify.git
+
+Builds:
+  - versionName: '1.0'
+    versionCode: 1
+    commit: v1.0
+    subdir: app
+    gradle:
+      - assembleRelease
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.0'
+CurrentVersionCode: 1

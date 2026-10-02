@@ -1,0 +1,11 @@
+<b>Naveedify</b> is a modern, privacy-respecting, open-source Spotify-style music streaming application designed with Jetpack Compose and Material 3.
+
+<b>Key Features:</b>
+• <b>Personalized Music Hub:</b> Curated daily mixes, featured hits, and custom playlists tailored for Naveed Ali.
+• <b>Persistent Playback Bar:</b> Integrated bottom bar with real-time seek progress, Play/Pause, Skip Next, Previous, Like toggling, and gesture swipes.
+• <b>Immersive Now Playing:</b> High-resolution dynamic gradient album art, live soundwave visualizer, seek slider, repeat/shuffle modes, sleep timer, and synchronized lyrics.
+• <b>Local Library Persistence:</b> Powered by Room SQLite Database for custom playlists, favorites, and listening history with zero tracking.
+• <b>Search & Explore:</b> Instant track search and browse catalog across genres including Lo-Fi, Synthwave, Acoustic, Hip-Hop, Electronic, Ambient, and Workout.
+• <b>Audio Preferences:</b> Customizable equalizer presets (Bass Boost, Vocal, Acoustic, Electronic) and streaming quality control.
+
+100% Free and Open Source Software (FOSS) under the Apache 2.0 license.

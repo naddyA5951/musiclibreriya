@@ -1,0 +1,6 @@
+{
+  "name": "Naveedify",
+  "description": "Spotify-style music streaming player personalized for Naveed with curated mixes, playlists, custom library, and playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
